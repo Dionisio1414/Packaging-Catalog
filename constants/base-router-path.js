@@ -1,0 +1,1 @@
+export const BASE_ROUTER_PATH = '/strx/packaging-catalog/';

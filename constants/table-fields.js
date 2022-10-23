@@ -1,0 +1,15 @@
+export const TABLE_HOME_CATALOG_FIELDS = [
+  { key: 'checkbox', label: '' },
+  { key: 'name', label: 'Name' },
+  { key: 'category', label: 'Category' },
+  { key: 'factory', label: 'Supplier' },
+  { key: 'width', label: 'W' },
+  { key: 'depth', label: 'R' },
+  { key: 'height', label: 'H' },
+  { key: 'brand', label: 'Brand' },
+  { key: 'archived_at', label: 'Status date' },
+  { key: 'created_at', label: 'Uploaded' },
+  { key: 'packaging_catalog_type', label: 'Packaging type' },
+  { key: 'product_team', label: 'Product team' },
+  { key: 'comment', label: 'Comment' },
+];
